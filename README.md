@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BharatBheesetti
-- 👀 I’m interested in building dapps, web apps, learning ML and other basic projects 
+- 👀 Trying to fiddle with agents, web apps, learning ML 
 - 🌱 I’m currently learning Pyhon
 - 💞️ I’m looking to collaborate on anything basic
 
